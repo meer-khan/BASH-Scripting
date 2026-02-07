@@ -1,0 +1,24 @@
+Command:
+    -ls 
+        gives content of current working directory
+
+    -cd ~
+        goes to home directory
+    
+    -echo $SHELL
+        check which shell I am using from Linux
+        result :- /usr/bin/bash
+
+What is a bash script?
+It is generally a text file which has one or more commands to run, when executed it runs as you entered commands in the terminal
+
+What is nano?
+Nano is a text editor where 
+
+How to create a file? 
+Steps to create a file and write inside it is as follows.
+1- nano name_of_file.sh 
+2- type: ctrl + o
+3- Hit enter on name of the file 
+4- type: ctrl+x
+5- Run the script by "./name_of_file.sh"
